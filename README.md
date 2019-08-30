@@ -1,6 +1,4 @@
 ###proyecto minijuegos 
-página
-Minijuegos minijuegos.com
 
 Mini juegos fue desarrollado el año 2003, en España, por pablo Cenalmor, diseñador gráfico 
 Cuyo enfoque era diseñar una página web en donde publicar pequeños juegos gratuitos creados por diversos desarrolladores para proporcionar a los internautas un rato de ocio fácil  
